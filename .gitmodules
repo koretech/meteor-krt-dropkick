@@ -1,0 +1,3 @@
+[submodule "lib/dropkick"]
+	path = lib/dropkick
+	url = https://github.com/Robdel12/DropKick.git
